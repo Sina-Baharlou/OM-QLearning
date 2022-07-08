@@ -5,12 +5,13 @@ The first of is an implementation of an agent that uses the Q-Learning algorithm
 
 This demonstration program is developed in C++ programming language and the OpenCV library is used to visualize the situation. 
 
+### Adviser
+Prof. Daniele Nardi
+
+### How to Run 
 
 > **Requirements:**
 
 > - OpenCV 2.4 or higher</br>
-
-
-### How to Run 
 
 Compile the source using the 'make' command, then execute the Qlearning file. you can also change the behaviour in the Qlearning.cpp file
